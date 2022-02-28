@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
    My Level 1 Heading
 
-Welcome to WebPres-docs's documentation!
+Install Apps
 ========================================
 
 .. toctree::
