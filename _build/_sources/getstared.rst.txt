@@ -1,0 +1,26 @@
+.. meta::
+   :description: WebPres cms site builder built in python
+   :keywords: WebPres, documentation, builder
+
+
+=================
+Get Started.
+=================
+To download WebPres `Download`_.
+
+.. _Download: https://github.com/ronyman-com/WebPres/releases/tag/WebPres
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+
+Contents
+==================
+
+* :ref:`search`
+* :ref:`getstarted`
+* :ref:`installapps`
+* :ref:`amazons3`
+* :ref:`error_solved`
