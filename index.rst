@@ -16,8 +16,9 @@ Welcome to WebPres-docs's documentation!
 Contents
 ==================
 
-* :ref:`Get started`
-* :ref:`Install apps`
-* :ref:`Setup Amazons3`
-* :ref:`Migrate Data`
-* :ref:`Error Docs`
+* :ref:`search`
+* :ref:`getstarted`
+* :ref:`installapps`
+* :ref:`amazons3`
+* :ref:`error_solved`
+
