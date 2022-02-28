@@ -16,4 +16,8 @@ Welcome to WebPres-docs's documentation!
 Contents
 ==================
 
-
+* :ref:`search`
+* :ref:`getstarted`
+* :ref:`installapps`
+* :ref:`amazons3`
+* :ref:`error_solved`
