@@ -57,13 +57,9 @@ html_theme = 'furo'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-sidebars =
-  sidebar/brand.html,
-  sidebar/search.html,
-  sidebar/scroll-start.html,
-  sidebar/navigation.html,
-  sidebar/ethical-ads.html,
-  sidebar/scroll-end.html,
-  sidebar/variant-selector.html
+html_sidebars = {
+   '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],
+   'using/windows': ['windowssidebar.html', 'searchbox.html'],
+}
 
 
