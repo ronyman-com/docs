@@ -1,0 +1,25 @@
+.. meta::
+   :description: WebPres cms site builder built in python
+   :keywords: WebPres, get started ,documentation, builder
+
+.. header:: WebPres.org.
+=================
+Get Started.
+_getstarted
+=================
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+
+Contents
+==================
+
+* :ref:`search`
+* :ref:`getstarted`
+* :ref:`installapps`
+* :ref:`amazons3`
+* :ref:`error_solved`

@@ -1,0 +1,21 @@
+.. meta::
+   :description: WebPres cms site builder built in python
+   :keywords: WebPres, documentation, builder
+
+Install Apps
+========================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+_installapps
+
+Contents
+==================
+
+* :ref:`search`
+* :ref:`getstarted`
+* :ref:`installapps`
+* :ref:`amazons3`
+* :ref:`error_solved`

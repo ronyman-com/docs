@@ -1,0 +1,22 @@
+.. meta::
+   :description: WebPres cms site builder built in python
+   :keywords: WebPres, error and fixed installation
+
+Error & Solved
+========================================
+_error_solved
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+
+Contents
+==================
+
+* :ref:`search`
+* :ref:`getstarted`
+* :ref:`installapps`
+* :ref:`amazons3`
+* :ref:`error_solved`
