@@ -2,7 +2,7 @@
    :description: WebPres cms site builder built in python
    :keywords: WebPres, documentation, builder
 
-Install Apps
+Error & Solved
 ========================================
 
 .. toctree::
