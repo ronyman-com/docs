@@ -58,10 +58,11 @@ html_theme = 'furo'
 html_static_path = ['_static']
 
 html_sidebars = [
+    "sidebar/scroll-start.html",
+    "sidebar/brand.html",
     "sidebar/search.html",
-    "sidebar/getstarted.html",
-    "sidebar/installapps.html",
-    "sidebar/amazons3.html",
-    "sidebar/error_solved.html",
+    "sidebar/navigation.html",
+    "sidebar/ethical-ads.html",
+    "sidebar/scroll-end.html",
 ]
 
