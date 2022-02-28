@@ -2,13 +2,11 @@
    :description: WebPres cms site builder built in python
    :keywords: WebPres, documentation, builder
 
-
+.. header:: WebPres.org.
 =================
 Get Started.
 =================
-To download WebPres `Download`_.
 
-.. _Download: https://github.com/ronyman-com/WebPres/releases/tag/WebPres
 
 .. toctree::
    :maxdepth: 2
