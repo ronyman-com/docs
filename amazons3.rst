@@ -4,7 +4,9 @@
 
 .. header:: WebPres.org.
 
-.. _amasons3:
+:orphan:
+
+.. _amazons3:
 
 Storage
 ========================================
@@ -25,4 +27,4 @@ Contents
 * :ref:`error_solved`
 
 =======
-``set up your amazons3 account and good to go``
+``set up your amazons3 account and good to go``.

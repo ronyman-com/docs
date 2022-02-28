@@ -9,6 +9,7 @@
 WebPres's documentation!
 ========================================
 
+:orphan:
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

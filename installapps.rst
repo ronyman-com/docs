@@ -4,10 +4,15 @@
 
 .. header:: WebPres.org.
 
+:orphan:
+
+
 .. _installapps:
+
 
 Install Apps
 ========================================
+
 
 .. toctree::
    :maxdepth: 2

@@ -4,10 +4,14 @@
 
 .. header:: WebPres.org.
 
+
+:orphan:
+
 .. _error_solved:
 
 Error Solved
 ================
+
 
 .. toctree::
    :maxdepth: 2

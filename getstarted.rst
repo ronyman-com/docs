@@ -4,11 +4,13 @@
 
 .. header:: WebPres.org.
 
+
+:orphan:
+
 .. _getstarted:
 
 Get Started.
 =================
-
 
 .. toctree::
    :maxdepth: 2
