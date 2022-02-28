@@ -1,10 +1,12 @@
-.. WebPres-docs documentation master file, created by
-   sphinx-quickstart on Sun Feb 27 23:05:25 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-   My Level 1 Heading
+.. meta::
+   :description: WebPres cms site builder built in python
+   :keywords: WebPres, index ,documentation, builder
 
-Welcome to WebPres's documentation!
+.. header:: WebPres.org.
+
+.. _index:
+
+WebPres's documentation!
 ========================================
 
 .. toctree::
@@ -21,3 +23,7 @@ Contents
 * :ref:`installapps`
 * :ref:`amazons3`
 * :ref:`error_solved`
+
+=======
+``to download WebPres Last version `Download`_.
+.. _Download: https://github.com/ronyman-com/WebPres/releases/tag/WebPres``

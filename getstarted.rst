@@ -1,12 +1,14 @@
-.. WebPres-docs documentation master file, created by
-   sphinx-quickstart on Sun Feb 27 23:05:25 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. meta::
+   :description: WebPres cms site builder built in python
+   :keywords: WebPres, get started ,documentation, builder
 
-_getstarted:
+.. header:: WebPres.org.
 
-Contents
-========================================
+.. _getstarted:
+
+Get Started.
+=================
+
 
 .. toctree::
    :maxdepth: 2
@@ -22,3 +24,9 @@ Contents
 * :ref:`installapps`
 * :ref:`amazons3`
 * :ref:`error_solved`
+
+
+
+=====
+
+``Get started on WebPres is a Free opensource cms site builder.``

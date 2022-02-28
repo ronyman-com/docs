@@ -5,7 +5,6 @@
 .. header:: WebPres.org.
 =================
 Get Started.
-_getstarted
 =================
 
 

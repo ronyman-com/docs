@@ -1,10 +1,13 @@
-.. WebPres-docs documentation master file, created by
-   sphinx-quickstart on Sun Feb 27 23:05:25 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. meta::
+   :description: WebPres cms site builder built in python
+   :keywords: WebPres, error solved ,documentation, builder
+
+.. header:: WebPres.org.
+
+.. _error_solved:
 
 Error Solved
-========================================
+================
 
 .. toctree::
    :maxdepth: 2
@@ -12,9 +15,11 @@ Error Solved
 
 
 
-Indices and tables
+Contents
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
+* :ref:`getstarted`
+* :ref:`installapps`
+* :ref:`amazons3`
+* :ref:`error_solved`

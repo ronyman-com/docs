@@ -1,7 +1,10 @@
-.. WebPres-docs documentation master file, created by
-   sphinx-quickstart on Sun Feb 27 23:05:25 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. meta::
+   :description: WebPres cms site builder built in python
+   :keywords: WebPres, amazons3 ,documentation, builder
+
+.. header:: WebPres.org.
+
+.. _amasons3:
 
 Storage
 ========================================
@@ -12,9 +15,14 @@ Storage
 
 
 
-Indices and tables
+Contents
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
+* :ref:`getstarted`
+* :ref:`installapps`
+* :ref:`amazons3`
+* :ref:`error_solved`
+
+=======
+``set up your amazons3 account and good to go``
